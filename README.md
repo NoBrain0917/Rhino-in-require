@@ -5,6 +5,8 @@
 
 ※ 간단하게 구현한지라 모듈 불러오는거를 제외한 `require`의 다른 기능은 없습니다.
 
+예시 코드
+
 ### index.js
 ```javascript
 const mymodule = require(path);
